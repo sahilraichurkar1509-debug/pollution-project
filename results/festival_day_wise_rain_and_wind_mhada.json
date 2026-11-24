@@ -1,0 +1,86 @@
+[
+  {
+    "festival_date": "2023-11-09",
+    "day_label": "vasu_baras",
+    "wind": "2.0",
+    "rain_mm": "9.5"
+  },
+  {
+    "festival_date": "2023-11-10",
+    "day_label": "dhanteras",
+    "wind": "1.6",
+    "rain_mm": "2.5"
+  },
+  {
+    "festival_date": "2023-11-11",
+    "day_label": "kali_chaudas",
+    "wind": "2.3",
+    "rain_mm": "0.0"
+  },
+  {
+    "festival_date": "2023-11-12",
+    "day_label": "lakshmi_puja",
+    "wind": "1.8",
+    "rain_mm": "0.0"
+  },
+  {
+    "festival_date": "2023-11-13",
+    "day_label": "diwali_snan_amavasya",
+    "wind": "1.4",
+    "rain_mm": "0.0"
+  },
+  {
+    "festival_date": "2023-11-14",
+    "day_label": "govardhan_puja_padwa",
+    "wind": "1.3",
+    "rain_mm": "0.0"
+  },
+  {
+    "festival_date": "2023-11-15",
+    "day_label": "bhau_beej",
+    "wind": "1.6",
+    "rain_mm": "0.0"
+  },
+  {
+    "festival_date": "2024-10-28",
+    "day_label": "vasu_baras",
+    "wind": "1.6",
+    "rain_mm": "0.0"
+  },
+  {
+    "festival_date": "2024-10-29",
+    "day_label": "dhanteras",
+    "wind": "1.8",
+    "rain_mm": "0.0"
+  },
+  {
+    "festival_date": "2024-10-30",
+    "day_label": "kali_chaudas",
+    "wind": "1.4",
+    "rain_mm": "0.3"
+  },
+  {
+    "festival_date": "2024-10-31",
+    "day_label": "narak_chaturdashi",
+    "wind": "2.0",
+    "rain_mm": "0.3"
+  },
+  {
+    "festival_date": "2024-11-01",
+    "day_label": "lakshmi_puja",
+    "wind": "2.1",
+    "rain_mm": "0.1"
+  },
+  {
+    "festival_date": "2024-11-02",
+    "day_label": "govardhan_puja_padwa",
+    "wind": "2.2",
+    "rain_mm": "0.0"
+  },
+  {
+    "festival_date": "2024-11-03",
+    "day_label": "bhau_beej",
+    "wind": "2.1",
+    "rain_mm": "0.0"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 00:00:00",
+    "avg_pm25": "60.90",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 01:00:00",
+    "avg_pm25": "58.89",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 02:00:00",
+    "avg_pm25": "49.71",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 03:00:00",
+    "avg_pm25": "58.63",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 04:00:00",
+    "avg_pm25": "59.04",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 05:00:00",
+    "avg_pm25": "51.91",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 06:00:00",
+    "avg_pm25": "55.46",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 07:00:00",
+    "avg_pm25": "57.96",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 08:00:00",
+    "avg_pm25": "53.96",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 09:00:00",
+    "avg_pm25": "50.64",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 10:00:00",
+    "avg_pm25": "41.04",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 11:00:00",
+    "avg_pm25": "38.68",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 12:00:00",
+    "avg_pm25": "32.24",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 13:00:00",
+    "avg_pm25": "37.00",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 14:00:00",
+    "avg_pm25": "35.82",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 15:00:00",
+    "avg_pm25": "37.49",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 16:00:00",
+    "avg_pm25": "36.95",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 17:00:00",
+    "avg_pm25": "37.97",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 18:00:00",
+    "avg_pm25": "44.10",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 19:00:00",
+    "avg_pm25": "54.02",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 20:00:00",
+    "avg_pm25": "59.98",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 21:00:00",
+    "avg_pm25": "67.68",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 22:00:00",
+    "avg_pm25": "69.10",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-29 23:00:00",
+    "avg_pm25": "69.19",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 00:00:00",
+    "avg_pm25": "71.17",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 01:00:00",
+    "avg_pm25": "67.91",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 02:00:00",
+    "avg_pm25": "61.10",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 03:00:00",
+    "avg_pm25": "53.94",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 04:00:00",
+    "avg_pm25": "54.33",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 05:00:00",
+    "avg_pm25": "58.30",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 06:00:00",
+    "avg_pm25": "59.39",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 07:00:00",
+    "avg_pm25": "56.00",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 08:00:00",
+    "avg_pm25": "55.92",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 09:00:00",
+    "avg_pm25": "55.00",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 10:00:00",
+    "avg_pm25": "38.64",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 11:00:00",
+    "avg_pm25": "34.28",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 12:00:00",
+    "avg_pm25": "33.52",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 13:00:00",
+    "avg_pm25": "33.70",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 14:00:00",
+    "avg_pm25": "26.76",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 15:00:00",
+    "avg_pm25": "25.42",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 16:00:00",
+    "avg_pm25": "36.84",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 17:00:00",
+    "avg_pm25": "37.74",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 18:00:00",
+    "avg_pm25": "46.66",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 19:00:00",
+    "avg_pm25": "68.44",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 20:00:00",
+    "avg_pm25": "71.08",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 21:00:00",
+    "avg_pm25": "65.02",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 22:00:00",
+    "avg_pm25": "65.29",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-30 23:00:00",
+    "avg_pm25": "76.19",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 00:00:00",
+    "avg_pm25": "82.71",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 01:00:00",
+    "avg_pm25": "57.57",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 02:00:00",
+    "avg_pm25": "60.17",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 03:00:00",
+    "avg_pm25": "64.02",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 04:00:00",
+    "avg_pm25": "62.36",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 05:00:00",
+    "avg_pm25": "52.61",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 06:00:00",
+    "avg_pm25": "56.64",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 07:00:00",
+    "avg_pm25": "67.78",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 08:00:00",
+    "avg_pm25": "63.16",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 09:00:00",
+    "avg_pm25": "47.68",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 10:00:00",
+    "avg_pm25": "56.35",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 11:00:00",
+    "avg_pm25": "51.26",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 12:00:00",
+    "avg_pm25": "41.24",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 13:00:00",
+    "avg_pm25": "45.16",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 14:00:00",
+    "avg_pm25": "34.80",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 15:00:00",
+    "avg_pm25": "33.19",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 16:00:00",
+    "avg_pm25": "32.89",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 17:00:00",
+    "avg_pm25": "38.97",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 18:00:00",
+    "avg_pm25": "30.76",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 19:00:00",
+    "avg_pm25": "37.10",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 20:00:00",
+    "avg_pm25": "37.82",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 21:00:00",
+    "avg_pm25": "45.62",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 22:00:00",
+    "avg_pm25": "80.52",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-10-31 23:00:00",
+    "avg_pm25": "90.99",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 00:00:00",
+    "avg_pm25": "64.37",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 01:00:00",
+    "avg_pm25": "56.83",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 02:00:00",
+    "avg_pm25": "50.52",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 03:00:00",
+    "avg_pm25": "39.43",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 04:00:00",
+    "avg_pm25": "39.15",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 05:00:00",
+    "avg_pm25": "37.17",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 06:00:00",
+    "avg_pm25": "33.50",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 07:00:00",
+    "avg_pm25": "34.28",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 08:00:00",
+    "avg_pm25": "36.75",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 09:00:00",
+    "avg_pm25": "39.75",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 10:00:00",
+    "avg_pm25": "46.65",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 11:00:00",
+    "avg_pm25": "42.28",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 12:00:00",
+    "avg_pm25": "36.36",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 13:00:00",
+    "avg_pm25": "33.70",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 14:00:00",
+    "avg_pm25": "25.32",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 15:00:00",
+    "avg_pm25": "21.17",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 16:00:00",
+    "avg_pm25": "28.33",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 17:00:00",
+    "avg_pm25": "32.78",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 18:00:00",
+    "avg_pm25": "34.28",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 19:00:00",
+    "avg_pm25": "42.57",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 20:00:00",
+    "avg_pm25": "69.85",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 21:00:00",
+    "avg_pm25": "98.29",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 22:00:00",
+    "avg_pm25": "116.47",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-01 23:00:00",
+    "avg_pm25": "122.32",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 00:00:00",
+    "avg_pm25": "134.30",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 01:00:00",
+    "avg_pm25": "121.32",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 02:00:00",
+    "avg_pm25": "88.82",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 03:00:00",
+    "avg_pm25": "81.15",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 04:00:00",
+    "avg_pm25": "79.36",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 05:00:00",
+    "avg_pm25": "68.43",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 06:00:00",
+    "avg_pm25": "62.44",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 07:00:00",
+    "avg_pm25": "67.03",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 08:00:00",
+    "avg_pm25": "69.47",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 09:00:00",
+    "avg_pm25": "63.68",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 10:00:00",
+    "avg_pm25": "58.76",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 11:00:00",
+    "avg_pm25": "50.90",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 12:00:00",
+    "avg_pm25": "44.28",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 13:00:00",
+    "avg_pm25": "32.69",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 14:00:00",
+    "avg_pm25": "34.74",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 15:00:00",
+    "avg_pm25": "32.04",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 16:00:00",
+    "avg_pm25": "31.34",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 17:00:00",
+    "avg_pm25": "36.18",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 18:00:00",
+    "avg_pm25": "37.93",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 19:00:00",
+    "avg_pm25": "50.04",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 20:00:00",
+    "avg_pm25": "60.21",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 21:00:00",
+    "avg_pm25": "71.40",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 22:00:00",
+    "avg_pm25": "80.54",
+    "pm25_hours": "1"
+  },
+  {
+    "station": "mhada_colony",
+    "recording_time": "2024-11-02 23:00:00",
+    "avg_pm25": "80.37",
+    "pm25_hours": "1"
+  }
+]

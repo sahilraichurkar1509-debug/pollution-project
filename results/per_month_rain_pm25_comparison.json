@@ -1,0 +1,212 @@
+[
+  {
+    "month": "1",
+    "rainy_group": "DRY",
+    "days": "64",
+    "mean_pm25": "70.2"
+  },
+  {
+    "month": "1",
+    "rainy_group": "LIGHT",
+    "days": "5",
+    "mean_pm25": "56.3"
+  },
+  {
+    "month": "1",
+    "rainy_group": "RAINY",
+    "days": "7",
+    "mean_pm25": "72.7"
+  },
+  {
+    "month": "2",
+    "rainy_group": "DRY",
+    "days": "106",
+    "mean_pm25": "62.6"
+  },
+  {
+    "month": "2",
+    "rainy_group": "LIGHT",
+    "days": "4",
+    "mean_pm25": "62.5"
+  },
+  {
+    "month": "2",
+    "rainy_group": "RAINY",
+    "days": "1",
+    "mean_pm25": "58.5"
+  },
+  {
+    "month": "3",
+    "rainy_group": "DRY",
+    "days": "108",
+    "mean_pm25": "56.8"
+  },
+  {
+    "month": "3",
+    "rainy_group": "LIGHT",
+    "days": "5",
+    "mean_pm25": "47.3"
+  },
+  {
+    "month": "3",
+    "rainy_group": "RAINY",
+    "days": "3",
+    "mean_pm25": "60.3"
+  },
+  {
+    "month": "4",
+    "rainy_group": "DRY",
+    "days": "92",
+    "mean_pm25": "47.9"
+  },
+  {
+    "month": "4",
+    "rainy_group": "LIGHT",
+    "days": "18",
+    "mean_pm25": "47.4"
+  },
+  {
+    "month": "4",
+    "rainy_group": "RAINY",
+    "days": "4",
+    "mean_pm25": "34.7"
+  },
+  {
+    "month": "5",
+    "rainy_group": "DRY",
+    "days": "60",
+    "mean_pm25": "46.0"
+  },
+  {
+    "month": "5",
+    "rainy_group": "LIGHT",
+    "days": "23",
+    "mean_pm25": "37.6"
+  },
+  {
+    "month": "5",
+    "rainy_group": "RAINY",
+    "days": "12",
+    "mean_pm25": "33.3"
+  },
+  {
+    "month": "6",
+    "rainy_group": "DRY",
+    "days": "9",
+    "mean_pm25": "47.7"
+  },
+  {
+    "month": "6",
+    "rainy_group": "LIGHT",
+    "days": "21",
+    "mean_pm25": "38.1"
+  },
+  {
+    "month": "6",
+    "rainy_group": "RAINY",
+    "days": "68",
+    "mean_pm25": "23.9"
+  },
+  {
+    "month": "7",
+    "rainy_group": "LIGHT",
+    "days": "9",
+    "mean_pm25": "20.0"
+  },
+  {
+    "month": "7",
+    "rainy_group": "RAINY",
+    "days": "84",
+    "mean_pm25": "21.0"
+  },
+  {
+    "month": "8",
+    "rainy_group": "DRY",
+    "days": "2",
+    "mean_pm25": "69.5"
+  },
+  {
+    "month": "8",
+    "rainy_group": "LIGHT",
+    "days": "19",
+    "mean_pm25": "50.8"
+  },
+  {
+    "month": "8",
+    "rainy_group": "RAINY",
+    "days": "51",
+    "mean_pm25": "38.4"
+  },
+  {
+    "month": "9",
+    "rainy_group": "DRY",
+    "days": "4",
+    "mean_pm25": "35.5"
+  },
+  {
+    "month": "9",
+    "rainy_group": "LIGHT",
+    "days": "13",
+    "mean_pm25": "41.8"
+  },
+  {
+    "month": "9",
+    "rainy_group": "RAINY",
+    "days": "51",
+    "mean_pm25": "29.3"
+  },
+  {
+    "month": "10",
+    "rainy_group": "DRY",
+    "days": "31",
+    "mean_pm25": "51.4"
+  },
+  {
+    "month": "10",
+    "rainy_group": "LIGHT",
+    "days": "8",
+    "mean_pm25": "57.3"
+  },
+  {
+    "month": "10",
+    "rainy_group": "RAINY",
+    "days": "26",
+    "mean_pm25": "27.8"
+  },
+  {
+    "month": "11",
+    "rainy_group": "DRY",
+    "days": "46",
+    "mean_pm25": "70.6"
+  },
+  {
+    "month": "11",
+    "rainy_group": "LIGHT",
+    "days": "6",
+    "mean_pm25": "60.2"
+  },
+  {
+    "month": "11",
+    "rainy_group": "RAINY",
+    "days": "7",
+    "mean_pm25": "50.0"
+  },
+  {
+    "month": "12",
+    "rainy_group": "DRY",
+    "days": "46",
+    "mean_pm25": "70.3"
+  },
+  {
+    "month": "12",
+    "rainy_group": "LIGHT",
+    "days": "14",
+    "mean_pm25": "56.2"
+  },
+  {
+    "month": "12",
+    "rainy_group": "RAINY",
+    "days": "2",
+    "mean_pm25": "46.3"
+  }
+]

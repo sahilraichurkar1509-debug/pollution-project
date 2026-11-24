@@ -1,0 +1,188 @@
+[
+  {
+    "location": "pune",
+    "date": "2022-05-01",
+    "avg_wind_speed": "4.33",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-02",
+    "avg_wind_speed": "3.97",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-03",
+    "avg_wind_speed": "3.67",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-04",
+    "avg_wind_speed": "2.82",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-05",
+    "avg_wind_speed": "3.07",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-06",
+    "avg_wind_speed": "3.05",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-07",
+    "avg_wind_speed": "3.43",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-08",
+    "avg_wind_speed": "3.73",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-09",
+    "avg_wind_speed": "4.57",
+    "total_rain": "0.2"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-10",
+    "avg_wind_speed": "4.82",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-11",
+    "avg_wind_speed": "4.93",
+    "total_rain": "0.4"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-12",
+    "avg_wind_speed": "5.10",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-13",
+    "avg_wind_speed": "4.66",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-14",
+    "avg_wind_speed": "4.78",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-15",
+    "avg_wind_speed": "4.30",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-16",
+    "avg_wind_speed": "3.73",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-17",
+    "avg_wind_speed": "4.01",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-18",
+    "avg_wind_speed": "3.20",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-19",
+    "avg_wind_speed": "3.67",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-20",
+    "avg_wind_speed": "4.95",
+    "total_rain": "3.4"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-21",
+    "avg_wind_speed": "5.68",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-22",
+    "avg_wind_speed": "6.40",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-23",
+    "avg_wind_speed": "5.82",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-24",
+    "avg_wind_speed": "4.97",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-25",
+    "avg_wind_speed": "4.03",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-26",
+    "avg_wind_speed": "4.45",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-27",
+    "avg_wind_speed": "5.06",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-28",
+    "avg_wind_speed": "5.01",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-29",
+    "avg_wind_speed": "5.18",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-30",
+    "avg_wind_speed": "4.71",
+    "total_rain": "0"
+  },
+  {
+    "location": "pune",
+    "date": "2022-05-31",
+    "avg_wind_speed": "4.65",
+    "total_rain": "0.2"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "rainy_group": "DRY",
+    "days": "322",
+    "mean_pm25": "45.7",
+    "correlation_pm25_wind_speed": 0.07893941554229499
+  },
+  {
+    "rainy_group": "LIGHT",
+    "days": "86",
+    "mean_pm25": "42.3",
+    "correlation_pm25_wind_speed": -0.06555198731415549
+  },
+  {
+    "rainy_group": "RAINY",
+    "days": "177",
+    "mean_pm25": "23.1",
+    "correlation_pm25_wind_speed": -0.22924613153700094
+  }
+]

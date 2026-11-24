@@ -1,0 +1,74 @@
+[
+  {
+    "month": "1",
+    "days": "76",
+    "corr_humidity": "0.00",
+    "corr_temp": "-0.33"
+  },
+  {
+    "month": "2",
+    "days": "111",
+    "corr_humidity": "0.06",
+    "corr_temp": "-0.08"
+  },
+  {
+    "month": "3",
+    "days": "116",
+    "corr_humidity": "-0.47",
+    "corr_temp": "0.46"
+  },
+  {
+    "month": "4",
+    "days": "114",
+    "corr_humidity": "-0.10",
+    "corr_temp": "0.23"
+  },
+  {
+    "month": "5",
+    "days": "95",
+    "corr_humidity": "-0.15",
+    "corr_temp": "0.04"
+  },
+  {
+    "month": "6",
+    "days": "98",
+    "corr_humidity": "-0.76",
+    "corr_temp": "0.64"
+  },
+  {
+    "month": "7",
+    "days": "93",
+    "corr_humidity": "-0.28",
+    "corr_temp": "0.12"
+  },
+  {
+    "month": "8",
+    "days": "72",
+    "corr_humidity": "-0.55",
+    "corr_temp": "0.31"
+  },
+  {
+    "month": "9",
+    "days": "68",
+    "corr_humidity": "-0.32",
+    "corr_temp": "0.26"
+  },
+  {
+    "month": "10",
+    "days": "65",
+    "corr_humidity": "-0.77",
+    "corr_temp": "0.52"
+  },
+  {
+    "month": "11",
+    "days": "59",
+    "corr_humidity": "-0.16",
+    "corr_temp": "0.00"
+  },
+  {
+    "month": "12",
+    "days": "62",
+    "corr_humidity": "-0.43",
+    "corr_temp": "-0.59"
+  }
+]

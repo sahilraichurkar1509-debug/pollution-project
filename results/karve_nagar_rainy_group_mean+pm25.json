@@ -1,0 +1,490 @@
+[
+  {
+    "year": "2023",
+    "month": "1",
+    "rainy_group": "DRY",
+    "days": "10",
+    "mean_pm25": "18.9",
+    "correlation_pm25_wind_speed": -0.11997497065968188
+  },
+  {
+    "year": "2023",
+    "month": "1",
+    "rainy_group": "LIGHT",
+    "days": "2",
+    "mean_pm25": "16.5",
+    "correlation_pm25_wind_speed": 1
+  },
+  {
+    "year": "2023",
+    "month": "2",
+    "rainy_group": "DRY",
+    "days": "15",
+    "mean_pm25": "31.5",
+    "correlation_pm25_wind_speed": -0.1095467889530561
+  },
+  {
+    "year": "2023",
+    "month": "2",
+    "rainy_group": "LIGHT",
+    "days": "1",
+    "mean_pm25": "20.5",
+    "correlation_pm25_wind_speed": null
+  },
+  {
+    "year": "2023",
+    "month": "3",
+    "rainy_group": "DRY",
+    "days": "24",
+    "mean_pm25": "22.5",
+    "correlation_pm25_wind_speed": -0.7093398361737119
+  },
+  {
+    "year": "2023",
+    "month": "3",
+    "rainy_group": "LIGHT",
+    "days": "3",
+    "mean_pm25": "27.8",
+    "correlation_pm25_wind_speed": -0.2148735687915323
+  },
+  {
+    "year": "2023",
+    "month": "3",
+    "rainy_group": "RAINY",
+    "days": "2",
+    "mean_pm25": "50.8",
+    "correlation_pm25_wind_speed": 1
+  },
+  {
+    "year": "2023",
+    "month": "4",
+    "rainy_group": "DRY",
+    "days": "11",
+    "mean_pm25": "70.7",
+    "correlation_pm25_wind_speed": 0.3450651860489906
+  },
+  {
+    "year": "2023",
+    "month": "4",
+    "rainy_group": "LIGHT",
+    "days": "6",
+    "mean_pm25": "110.6",
+    "correlation_pm25_wind_speed": -0.5653490822560368
+  },
+  {
+    "year": "2023",
+    "month": "4",
+    "rainy_group": "RAINY",
+    "days": "2",
+    "mean_pm25": "30.4",
+    "correlation_pm25_wind_speed": 1
+  },
+  {
+    "year": "2023",
+    "month": "5",
+    "rainy_group": "DRY",
+    "days": "14",
+    "mean_pm25": "102.0",
+    "correlation_pm25_wind_speed": 0.48694095143634575
+  },
+  {
+    "year": "2023",
+    "month": "5",
+    "rainy_group": "LIGHT",
+    "days": "5",
+    "mean_pm25": "108.5",
+    "correlation_pm25_wind_speed": 0.942358876517886
+  },
+  {
+    "year": "2023",
+    "month": "6",
+    "rainy_group": "DRY",
+    "days": "4",
+    "mean_pm25": "32.4",
+    "correlation_pm25_wind_speed": 0.22308274564579844
+  },
+  {
+    "year": "2023",
+    "month": "6",
+    "rainy_group": "LIGHT",
+    "days": "5",
+    "mean_pm25": "43.6",
+    "correlation_pm25_wind_speed": 0.0017374529550600699
+  },
+  {
+    "year": "2023",
+    "month": "6",
+    "rainy_group": "RAINY",
+    "days": "3",
+    "mean_pm25": "40.4",
+    "correlation_pm25_wind_speed": -0.6702058147982067
+  },
+  {
+    "year": "2023",
+    "month": "7",
+    "rainy_group": "RAINY",
+    "days": "18",
+    "mean_pm25": "27.4",
+    "correlation_pm25_wind_speed": -0.43759480497909076
+  },
+  {
+    "year": "2023",
+    "month": "8",
+    "rainy_group": "DRY",
+    "days": "2",
+    "mean_pm25": "25.7",
+    "correlation_pm25_wind_speed": -1
+  },
+  {
+    "year": "2023",
+    "month": "8",
+    "rainy_group": "LIGHT",
+    "days": "8",
+    "mean_pm25": "22.4",
+    "correlation_pm25_wind_speed": 0.4955563122287956
+  },
+  {
+    "year": "2023",
+    "month": "8",
+    "rainy_group": "RAINY",
+    "days": "19",
+    "mean_pm25": "25.6",
+    "correlation_pm25_wind_speed": 0.034735759830711956
+  },
+  {
+    "year": "2023",
+    "month": "9",
+    "rainy_group": "DRY",
+    "days": "1",
+    "mean_pm25": "30.0",
+    "correlation_pm25_wind_speed": null
+  },
+  {
+    "year": "2023",
+    "month": "9",
+    "rainy_group": "LIGHT",
+    "days": "5",
+    "mean_pm25": "25.3",
+    "correlation_pm25_wind_speed": 0.1964951140124144
+  },
+  {
+    "year": "2023",
+    "month": "9",
+    "rainy_group": "RAINY",
+    "days": "23",
+    "mean_pm25": "26.7",
+    "correlation_pm25_wind_speed": 0.061577629367910336
+  },
+  {
+    "year": "2023",
+    "month": "10",
+    "rainy_group": "DRY",
+    "days": "15",
+    "mean_pm25": "33.2",
+    "correlation_pm25_wind_speed": -0.11314811814802843
+  },
+  {
+    "year": "2023",
+    "month": "10",
+    "rainy_group": "LIGHT",
+    "days": "2",
+    "mean_pm25": "32.2",
+    "correlation_pm25_wind_speed": -1
+  },
+  {
+    "year": "2023",
+    "month": "10",
+    "rainy_group": "RAINY",
+    "days": "2",
+    "mean_pm25": "31.3",
+    "correlation_pm25_wind_speed": -1
+  },
+  {
+    "year": "2023",
+    "month": "11",
+    "rainy_group": "DRY",
+    "days": "20",
+    "mean_pm25": "39.4",
+    "correlation_pm25_wind_speed": -0.44739383152646667
+  },
+  {
+    "year": "2023",
+    "month": "11",
+    "rainy_group": "LIGHT",
+    "days": "4",
+    "mean_pm25": "27.6",
+    "correlation_pm25_wind_speed": 0.8886075367493527
+  },
+  {
+    "year": "2023",
+    "month": "11",
+    "rainy_group": "RAINY",
+    "days": "5",
+    "mean_pm25": "29.5",
+    "correlation_pm25_wind_speed": 0.030328307838358416
+  },
+  {
+    "year": "2023",
+    "month": "12",
+    "rainy_group": "DRY",
+    "days": "26",
+    "mean_pm25": "50.2",
+    "correlation_pm25_wind_speed": 0.2016313417234366
+  },
+  {
+    "year": "2023",
+    "month": "12",
+    "rainy_group": "LIGHT",
+    "days": "5",
+    "mean_pm25": "44.6",
+    "correlation_pm25_wind_speed": 0.04157462185459563
+  },
+  {
+    "year": "2024",
+    "month": "1",
+    "rainy_group": "DRY",
+    "days": "27",
+    "mean_pm25": "52.8",
+    "correlation_pm25_wind_speed": -0.21259343043644457
+  },
+  {
+    "year": "2024",
+    "month": "1",
+    "rainy_group": "LIGHT",
+    "days": "3",
+    "mean_pm25": "42.9",
+    "correlation_pm25_wind_speed": -0.999918494339276
+  },
+  {
+    "year": "2024",
+    "month": "1",
+    "rainy_group": "RAINY",
+    "days": "1",
+    "mean_pm25": "35.4",
+    "correlation_pm25_wind_speed": null
+  },
+  {
+    "year": "2024",
+    "month": "2",
+    "rainy_group": "DRY",
+    "days": "23",
+    "mean_pm25": "47.9",
+    "correlation_pm25_wind_speed": -0.14728756995281544
+  },
+  {
+    "year": "2024",
+    "month": "3",
+    "rainy_group": "DRY",
+    "days": "27",
+    "mean_pm25": "56.1",
+    "correlation_pm25_wind_speed": -0.3254348120109345
+  },
+  {
+    "year": "2024",
+    "month": "3",
+    "rainy_group": "LIGHT",
+    "days": "1",
+    "mean_pm25": "54.4",
+    "correlation_pm25_wind_speed": null
+  },
+  {
+    "year": "2024",
+    "month": "4",
+    "rainy_group": "DRY",
+    "days": "24",
+    "mean_pm25": "46.7",
+    "correlation_pm25_wind_speed": 0.23971200806676904
+  },
+  {
+    "year": "2024",
+    "month": "4",
+    "rainy_group": "LIGHT",
+    "days": "4",
+    "mean_pm25": "45.9",
+    "correlation_pm25_wind_speed": -0.603333872288154
+  },
+  {
+    "year": "2024",
+    "month": "4",
+    "rainy_group": "RAINY",
+    "days": "1",
+    "mean_pm25": "32.8",
+    "correlation_pm25_wind_speed": null
+  },
+  {
+    "year": "2024",
+    "month": "5",
+    "rainy_group": "DRY",
+    "days": "18",
+    "mean_pm25": "34.9",
+    "correlation_pm25_wind_speed": -0.2709251045911095
+  },
+  {
+    "year": "2024",
+    "month": "5",
+    "rainy_group": "LIGHT",
+    "days": "7",
+    "mean_pm25": "29.6",
+    "correlation_pm25_wind_speed": -0.10175618703944139
+  },
+  {
+    "year": "2024",
+    "month": "5",
+    "rainy_group": "RAINY",
+    "days": "6",
+    "mean_pm25": "27.5",
+    "correlation_pm25_wind_speed": 0.5022383741254586
+  },
+  {
+    "year": "2024",
+    "month": "6",
+    "rainy_group": "DRY",
+    "days": "1",
+    "mean_pm25": "17.0",
+    "correlation_pm25_wind_speed": null
+  },
+  {
+    "year": "2024",
+    "month": "6",
+    "rainy_group": "LIGHT",
+    "days": "3",
+    "mean_pm25": "20.1",
+    "correlation_pm25_wind_speed": -0.18949026292710125
+  },
+  {
+    "year": "2024",
+    "month": "6",
+    "rainy_group": "RAINY",
+    "days": "15",
+    "mean_pm25": "16.8",
+    "correlation_pm25_wind_speed": -0.3600622289752163
+  },
+  {
+    "year": "2024",
+    "month": "7",
+    "rainy_group": "LIGHT",
+    "days": "1",
+    "mean_pm25": "8.9",
+    "correlation_pm25_wind_speed": null
+  },
+  {
+    "year": "2024",
+    "month": "7",
+    "rainy_group": "RAINY",
+    "days": "24",
+    "mean_pm25": "11.9",
+    "correlation_pm25_wind_speed": 0.03593867574218279
+  },
+  {
+    "year": "2024",
+    "month": "8",
+    "rainy_group": "LIGHT",
+    "days": "5",
+    "mean_pm25": "20.6",
+    "correlation_pm25_wind_speed": 0.8549002782108494
+  },
+  {
+    "year": "2024",
+    "month": "8",
+    "rainy_group": "RAINY",
+    "days": "20",
+    "mean_pm25": "16.5",
+    "correlation_pm25_wind_speed": -0.45128863997994745
+  },
+  {
+    "year": "2024",
+    "month": "9",
+    "rainy_group": "DRY",
+    "days": "3",
+    "mean_pm25": "50.7",
+    "correlation_pm25_wind_speed": 0.0525061008934879
+  },
+  {
+    "year": "2024",
+    "month": "9",
+    "rainy_group": "LIGHT",
+    "days": "6",
+    "mean_pm25": "31.9",
+    "correlation_pm25_wind_speed": 0.22618734576852212
+  },
+  {
+    "year": "2024",
+    "month": "9",
+    "rainy_group": "RAINY",
+    "days": "20",
+    "mean_pm25": "25.0",
+    "correlation_pm25_wind_speed": -0.24668048613253454
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "rainy_group": "DRY",
+    "days": "10",
+    "mean_pm25": "38.3",
+    "correlation_pm25_wind_speed": 0.3986909736559517
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "rainy_group": "LIGHT",
+    "days": "4",
+    "mean_pm25": "37.8",
+    "correlation_pm25_wind_speed": -0.696788142260429
+  },
+  {
+    "year": "2024",
+    "month": "10",
+    "rainy_group": "RAINY",
+    "days": "13",
+    "mean_pm25": "21.7",
+    "correlation_pm25_wind_speed": 0.34324303995616906
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "rainy_group": "DRY",
+    "days": "27",
+    "mean_pm25": "50.2",
+    "correlation_pm25_wind_speed": -0.4753977668740001
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "rainy_group": "LIGHT",
+    "days": "2",
+    "mean_pm25": "64.3",
+    "correlation_pm25_wind_speed": 1
+  },
+  {
+    "year": "2024",
+    "month": "11",
+    "rainy_group": "RAINY",
+    "days": "1",
+    "mean_pm25": "50.7",
+    "correlation_pm25_wind_speed": null
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "rainy_group": "DRY",
+    "days": "20",
+    "mean_pm25": "40.7",
+    "correlation_pm25_wind_speed": -0.0009127814216725582
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "rainy_group": "LIGHT",
+    "days": "4",
+    "mean_pm25": "39.2",
+    "correlation_pm25_wind_speed": 0.47116985959523733
+  },
+  {
+    "year": "2024",
+    "month": "12",
+    "rainy_group": "RAINY",
+    "days": "2",
+    "mean_pm25": "38.6",
+    "correlation_pm25_wind_speed": -1
+  }
+]

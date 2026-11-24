@@ -1,0 +1,86 @@
+[
+  {
+    "festival_date": "2023-11-09",
+    "day_label": "vasu_baras",
+    "max_pm25_ugm3": "93.40",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2023-11-10",
+    "day_label": "dhanteras",
+    "max_pm25_ugm3": "105.08",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2023-11-11",
+    "day_label": "kali_chaudas",
+    "max_pm25_ugm3": "112.07",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2023-11-12",
+    "day_label": "lakshmi_puja",
+    "max_pm25_ugm3": "416.63",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2023-11-13",
+    "day_label": "diwali_snan_amavasya",
+    "max_pm25_ugm3": "887.38",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2023-11-14",
+    "day_label": "govardhan_puja_padwa",
+    "max_pm25_ugm3": "237.94",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2023-11-15",
+    "day_label": "bhau_beej",
+    "max_pm25_ugm3": "177.76",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2024-10-28",
+    "day_label": "vasu_baras",
+    "max_pm25_ugm3": "75.78",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2024-10-29",
+    "day_label": "dhanteras",
+    "max_pm25_ugm3": "69.19",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2024-10-30",
+    "day_label": "kali_chaudas",
+    "max_pm25_ugm3": "76.19",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2024-10-31",
+    "day_label": "narak_chaturdashi",
+    "max_pm25_ugm3": "90.99",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2024-11-01",
+    "day_label": "lakshmi_puja",
+    "max_pm25_ugm3": "122.32",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2024-11-02",
+    "day_label": "govardhan_puja_padwa",
+    "max_pm25_ugm3": "134.30",
+    "count_pm25_ugm3": "24"
+  },
+  {
+    "festival_date": "2024-11-03",
+    "day_label": "bhau_beej",
+    "max_pm25_ugm3": "107.91",
+    "count_pm25_ugm3": "24"
+  }
+]

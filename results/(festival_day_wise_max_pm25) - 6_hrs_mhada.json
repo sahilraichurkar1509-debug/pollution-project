@@ -1,0 +1,100 @@
+[
+  {
+    "festival_date": "2023-11-09",
+    "day_label": "vasu_baras",
+    "max_pm25": "93.4",
+    "pm25_hours": "24",
+    "mean_pm25": "49.9"
+  },
+  {
+    "festival_date": "2023-11-10",
+    "day_label": "dhanteras",
+    "max_pm25": "105.1",
+    "pm25_hours": "24",
+    "mean_pm25": "49.9"
+  },
+  {
+    "festival_date": "2023-11-11",
+    "day_label": "kali_chaudas",
+    "max_pm25": "112.1",
+    "pm25_hours": "24",
+    "mean_pm25": "66.6"
+  },
+  {
+    "festival_date": "2023-11-12",
+    "day_label": "lakshmi_puja",
+    "max_pm25": "887.4",
+    "pm25_hours": "24",
+    "mean_pm25": "210.7"
+  },
+  {
+    "festival_date": "2023-11-13",
+    "day_label": "diwali_snan_amavasya",
+    "max_pm25": "238.1",
+    "pm25_hours": "24",
+    "mean_pm25": "126.2"
+  },
+  {
+    "festival_date": "2023-11-14",
+    "day_label": "govardhan_puja_padwa",
+    "max_pm25": "177.8",
+    "pm25_hours": "24",
+    "mean_pm25": "99.6"
+  },
+  {
+    "festival_date": "2023-11-15",
+    "day_label": "bhau_beej",
+    "max_pm25": "167.8",
+    "pm25_hours": "24",
+    "mean_pm25": "88.4"
+  },
+  {
+    "festival_date": "2024-10-28",
+    "day_label": "vasu_baras",
+    "max_pm25": "75.8",
+    "pm25_hours": "24",
+    "mean_pm25": "50.8"
+  },
+  {
+    "festival_date": "2024-10-29",
+    "day_label": "dhanteras",
+    "max_pm25": "71.2",
+    "pm25_hours": "24",
+    "mean_pm25": "51.9"
+  },
+  {
+    "festival_date": "2024-10-30",
+    "day_label": "kali_chaudas",
+    "max_pm25": "82.7",
+    "pm25_hours": "24",
+    "mean_pm25": "52.7"
+  },
+  {
+    "festival_date": "2024-10-31",
+    "day_label": "narak_chaturdashi",
+    "max_pm25": "91.0",
+    "pm25_hours": "24",
+    "mean_pm25": "49.1"
+  },
+  {
+    "festival_date": "2024-11-01",
+    "day_label": "lakshmi_puja",
+    "max_pm25": "134.3",
+    "pm25_hours": "24",
+    "mean_pm25": "61.2"
+  },
+  {
+    "festival_date": "2024-11-02",
+    "day_label": "govardhan_puja_padwa",
+    "max_pm25": "107.9",
+    "pm25_hours": "24",
+    "mean_pm25": "61.9"
+  },
+  {
+    "festival_date": "2024-11-03",
+    "day_label": "bhau_beej",
+    "max_pm25": "91.5",
+    "pm25_hours": "24",
+    "mean_pm25": "54.2"
+  }
+]
